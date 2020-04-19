@@ -1,0 +1,19 @@
+{
+  "name": "experimentr",
+  "version": "1.0.0",
+  "description": "Common utilities for running A/B tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashk/experimenter.git"
+  },
+  "author": "dashk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashk/experimenter/issues"
+  },
+  "homepage": "https://github.com/dashk/experimenter#readme"
+}
